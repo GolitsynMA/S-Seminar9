@@ -1,0 +1,14 @@
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/bin/Debug/net8.0/HomeTask2
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/bin/Debug/net8.0/HomeTask2.deps.json
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/bin/Debug/net8.0/HomeTask2.runtimeconfig.json
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/bin/Debug/net8.0/HomeTask2.dll
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/bin/Debug/net8.0/HomeTask2.pdb
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/HomeTask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/HomeTask2.AssemblyInfoInputs.cache
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/HomeTask2.AssemblyInfo.cs
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/HomeTask2.csproj.CoreCompileInputs.cache
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/HomeTask2.dll
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/refint/HomeTask2.dll
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/HomeTask2.pdb
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/HomeTask2.genruntimeconfig.cache
+/Users/mishagolitsyn/Desktop/S#Seminar8/HomeTask2/obj/Debug/net8.0/ref/HomeTask2.dll
